@@ -8,9 +8,9 @@ Contributing
 Contributions are always welcome! If you have any ideas, suggestions, or improvements, feel free to fork the repository and submit a pull request. Please make sure your contributions align with the overall design and goals of the project. <br>
 
 Contact: 
-If you have any questions, feel free to reach out: 
-Email: lokeshpatil2204@gmail.com
-LinkedIn: https://www.linkedin.com/in/lokesh-patil-8a6708296 
+If you have any questions, feel free to reach out: <br>
+Email: lokeshpatil2204@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/lokesh-patil-8a6708296 <br>
 Twitter: https://twitter.com/p51714590Patil <br>
 
 Thank you for visiting the demo of the front page of my college website! Your feedback and suggestions are always appreciated. <br>
