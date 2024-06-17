@@ -14,3 +14,7 @@ LinkedIn: https://www.linkedin.com/in/lokesh-patil-8a6708296
 Twitter: https://twitter.com/p51714590Patil
 
 Thank you for visiting the demo of the front page of my college website! Your feedback and suggestions are always appreciated.
+
+
+https://github.com/Luffy031/Imr-College-Demo-Website/assets/132540716/bf9849fe-1b1c-4886-8697-ccd3cf0ae34f
+
